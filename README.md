@@ -1,7 +1,7 @@
 # Typing-Tutor-Assembly-CS066-Final-Project
 
 # Demonstration:
-![SEE THE PRESENTATION HERE](Michael Mansour CS66 Final Presentation.mp4)<br> <br>
+![SEE THE PRESENTATION HERE](typingTutorGif.gif)<br> <br>
 The Typing Tutor Game <br>
 ![The Typing Tutor Game](typingTutorGif.gif)
  <br> <br>
