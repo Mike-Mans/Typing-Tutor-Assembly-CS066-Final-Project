@@ -1,7 +1,7 @@
 # Typing-Tutor-Assembly-CS066-Final-Project
 
 # Demonstration:
-![SEE THE PRESENTATION HERE](typingTutorGif.gif)<br> <br>
+FULL MP4 VIDEOS AVAILABLE IN THE REPO, INCLUDING PRESENTATION <br> <br>
 The Typing Tutor Game <br>
 ![The Typing Tutor Game](typingTutorGif.gif)
  <br> <br>
